@@ -1,0 +1,6 @@
+{
+  "name": "Kainat AI",
+  "description": "Futuristic liquid-glassmorphism AI command center with voice chat, live HTML/CSS/JS developer sandbox, and Gemini media generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

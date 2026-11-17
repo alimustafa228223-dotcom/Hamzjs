@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kainat AI</string>
+    <string name="app_name_urdu">کائنات اے آئی</string>
+    <string name="status_online">NEURAL CORE ONLINE</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_developer">Developer</string>
+    <string name="tab_studio">Studio</string>
+    <string name="chat_subtitle">Voice &amp; Intelligence Core</string>
+    <string name="chat_hint">Command Kainat AI or tap mic…</string>
+    <string name="dev_subtitle">HTML5 / CSS3 / JS Live Sandbox</string>
+    <string name="dev_hint">Describe an interactive web app, game, or UI…</string>
+    <string name="dev_try_code">Try Code</string>
+    <string name="dev_export_code">Export Code</string>
+    <string name="studio_subtitle">Video &amp; Image Creative Studio</string>
+    <string name="studio_hint">Describe a cinematic scene or visual concept…</string>
+</resources>
